@@ -32,5 +32,5 @@ My name is <strong>Weverton Cintra</strong>
 
 <p align="right">
 <a href="https://instagram.com/weverton_cintra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="weverton_cintra" height="20" width="20" /></a>
+<a href="https://app.rocketseat.com.br/me/weverton-cintra" target="blank"><img align="center" src="https://avatars0.githubusercontent.com/u/28929274?s=200&v=4" alt="rocketseat_comunnity" height="20" width="20" /></a>
 </p>
-
