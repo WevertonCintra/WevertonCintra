@@ -4,7 +4,7 @@ I'm <strong>Weverton Cintra</strong>
 
 - 😄 I really like to learn, always studying new things.
 
-- 📚  I'm studying Nextjs, Elixir, Graphql, Nest.js, Prisma ...
+- 📚  I'm studying Nextjs, Graphql, Nest.js, Prisma ...
 
 - 💬 Ask me about **JavaScript, Typescript, Node.JS**
 
